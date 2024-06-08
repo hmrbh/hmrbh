@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 关于我自己。
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hmrbh&show_icons=true&theme=dark&count_private=true)
 ### 我能做什么？
 
