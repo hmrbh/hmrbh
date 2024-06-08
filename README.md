@@ -1,4 +1,4 @@
-## Hi there 👋
+### 你好啊！👋
 
 <!--
 **hmrbh/hmrbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 关于我自己。
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hmrbh&show_icons=true&theme=dark&count_private=true)
-#### What can I do?
+### 我能做什么？
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmrbh&theme=dark&layout=compact)
